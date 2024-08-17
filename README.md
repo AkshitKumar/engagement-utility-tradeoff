@@ -1,4 +1,4 @@
-# Engagement-Utility Tradeoff Repository
+# Engagement-Utility Tradeoff 
 
 This repository contains the source code for the paper "The Fault in Our Recommendations: On the Perils of Optimizing the Measurable". The paper models a recommendation system and explores the tradeoff between engagement and utility.
 

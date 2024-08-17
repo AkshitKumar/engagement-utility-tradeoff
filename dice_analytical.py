@@ -4,7 +4,7 @@ from parameters import *
 from helper import *
 from app_analytical import app
 
-ub = 750
+ub = 700
 v = popular_base_utility
 o = outside_base_utility
 
